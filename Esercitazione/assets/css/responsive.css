@@ -1,0 +1,41 @@
+@media screen and (min-width: 768px) {
+    body{
+        font-size: 1.5rem;
+        line-height: 1.8;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    iframe{
+        display: inline-block;
+        width: 49%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .iscrizione{
+        display: inline-block;
+        width: 49%;
+    }
+}
+
+@media screen and(min-width: 768px) {
+    table{
+        width: 50%;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    #aside-item{
+        display: inline-block;
+        width: 100%;
+        column-count: 3;
+    }
+}
+
+@media screen and(min-width: 768px) {
+    header{
+        display: inline-block;
+    }
+}
